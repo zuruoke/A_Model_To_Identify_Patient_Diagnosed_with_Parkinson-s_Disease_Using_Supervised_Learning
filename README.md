@@ -6,7 +6,7 @@ Your speech may become soft or slurred. Parkinson's disease symptoms worsen as y
 
 Although Parkinson's disease can't be cured, medications might significantly improve your symptoms, so it's better to discover the symptoms earlier, so medications can swiftly begin.
 
-The death rate from Parkinson’s disease has gradually and steadily increased over the last decade according statista, with reports suggesting that the reason is late diagnosis and reluctance of people older than 60 to always do diagnosis check.
+The death rate from Parkinson’s disease has gradually and steadily increased over the last decade according statista, with reports suggesting that the reason is due to late diagnosis and reluctance of people older than 60 to always do diagnosis check.
 
 I'll be working with a  dataset is composed of a range of biomedical voice measurements, Since soft or slurred speech is highly a major early symptom for Parkinson's disease, a nuanced collection of biomedical voice measurements features is what I'll be using to predict if a person has symptoms of Parkinson's disease. 
 
